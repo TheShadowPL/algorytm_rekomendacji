@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Użytkownik 1",
+      "articles_read": [
+        "Artykuł 267",
+        "Artykuł 126"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Użytkownik 2",
+      "articles_read": [
+        "Artykuł 257",
+        "Artykuł 120",
+        "Artykuł 109",
+        "Artykuł 270",
+        "Artykuł 268",
+        "Artykuł 283",
+        "Artykuł 185",
+        "Artykuł 182",
+        "Artykuł 72"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Użytkownik 3",
+      "articles_read": [
+        "Artykuł 119",
+        "Artykuł 240",
+        "Artykuł 84",
+        "Artykuł 228",
+        "Artykuł 114",
+        "Artykuł 12",
+        "Artykuł 68",
+        "Artykuł 257",
+        "Artykuł 243"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Użytkownik 4",
+      "articles_read": [
+        "Artykuł 112",
+        "Artykuł 69",
+        "Artykuł 47",
+        "Artykuł 47"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Użytkownik 5",
+      "articles_read": [
+        "Artykuł 106",
+        "Artykuł 130",
+        "Artykuł 271",
+        "Artykuł 71",
+        "Artykuł 291",
+        "Artykuł 256",
+        "Artykuł 74",
+        "Artykuł 292",
+        "Artykuł 299"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Użytkownik 6",
+      "articles_read": [
+        "Artykuł 36",
+        "Artykuł 272",
+        "Artykuł 284",
+        "Artykuł 293",
+        "Artykuł 107"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Użytkownik 7",
+      "articles_read": [
+        "Artykuł 247",
+        "Artykuł 274",
+        "Artykuł 170",
+        "Artykuł 276",
+        "Artykuł 169",
+        "Artykuł 119"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Użytkownik 8",
+      "articles_read": [
+        "Artykuł 293",
+        "Artykuł 203",
+        "Artykuł 71",
+        "Artykuł 125",
+        "Artykuł 164",
+        "Artykuł 280"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Użytkownik 9",
+      "articles_read": [
+        "Artykuł 186"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Użytkownik 10",
+      "articles_read": [
+        "Artykuł 243",
+        "Artykuł 114",
+        "Artykuł 122",
+        "Artykuł 180",
+        "Artykuł 55",
+        "Artykuł 295"
+      ]
+    }
+  ]
+}
